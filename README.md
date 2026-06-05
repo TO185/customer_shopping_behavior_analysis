@@ -17,7 +17,7 @@ Analyzed customer shopping behavior from 3,900 transactions across multiple prod
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.jpeg)
+![Dashboard Screenshot](dashboard.png)
 
 ## 🔍 Analysis Features
 
