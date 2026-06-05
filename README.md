@@ -17,7 +17,7 @@ Analyzed customer shopping behavior from 3,900 transactions across multiple prod
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_preview.jpeg)
+![Dashboard Screenshot](dashboard.jpeg)
 
 ## 🔍 Analysis Features
 
@@ -46,8 +46,8 @@ Analyzed customer shopping behavior from 3,900 transactions across multiple prod
 
 ## 📁 Files
 - `customer_behavoir.pbix` - Power BI file
-- `01_data_cleaning.ipynb` - Python EDA notebook
-- `business_queries.sql` - SQL analysis queries
+- `customer shopping behavoir .ipynb` - Python EDA notebook
+- `customer_sql.sql` - SQL analysis queries
 
 ## 👨‍💻 Author
 **Toufik Gafur Shaikh**
