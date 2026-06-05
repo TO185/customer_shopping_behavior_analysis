@@ -45,7 +45,7 @@ Analyzed customer shopping behavior from 3,900 transactions across multiple prod
 - Power BI Desktop
 
 ## 📁 Files
-- `shopping_behavior_analysis.pbix` - Power BI file
+- `customer_behavoir.pbix` - Power BI file
 - `01_data_cleaning.ipynb` - Python EDA notebook
 - `business_queries.sql` - SQL analysis queries
 
